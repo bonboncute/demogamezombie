@@ -1,0 +1,26 @@
+
+3
+
+idle1
+
+image Data/32.png
+x 0
+y 0
+w 79
+h 74
+
+idle2
+
+image Data/33.png
+x 0
+y 0
+w 79
+h 74
+
+idle3
+
+image Data/34.png
+x 0
+y 0
+w 79
+h 74
